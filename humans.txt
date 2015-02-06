@@ -1,0 +1,26 @@
+# humanstxt.org/
+# We are People, Not Machines
+
+# TEAM
+    Author of Idea: 	Sophia Khodor
+    Email:		uprising1.sofia@gmail.com
+    Location:       	Ukraine, Lviv
+
+    Developer:		Daniel Kurapov
+    Email:		daniel.kurapov@gmail.com
+    Twitter:		@zarogon
+    Location:		Ukraine, Lviv
+
+    Logo Design:	Ksenia Kushnir
+    Email:		kseniakushnir@outlook.com
+    Location:		Ukraine, Kiev
+
+# THANKS
+
+# SITE
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+    PHPStorm
